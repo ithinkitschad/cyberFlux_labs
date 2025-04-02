@@ -3,6 +3,11 @@
 **Cyberflux Labs** is a personal tech hub I’m building to host my AI tools, app portfolio, and local development terminal.  
 It serves as a central control center for all my active projects, including Omni 2.0, CR3DesignCo, StickItUpBros, and Android app development.
 
+## 🌐 Live Site
+
+**[https://www.cyberflux-labs.com](https://www.cyberflux-labs.com)**
+
+
 ---
 
 ## ⚙️ What It Is
